@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tv_app/tv/widgets/app_layout.dart';
+import 'widgets/app_layout.dart';
 
 class TVApp extends StatelessWidget {
   const TVApp({super.key});

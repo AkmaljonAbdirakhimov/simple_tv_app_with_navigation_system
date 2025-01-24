@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import '../screens/home_screen.dart';
 import '../screens/movies_screen.dart';
 import '../screens/tv_shows_screen.dart';
-import '../widgets/focusable_item.dart';
+import 'focusable_item.dart';
 
 class NavigationItemFocusNodes {
   static final FocusNode home = FocusNode();
